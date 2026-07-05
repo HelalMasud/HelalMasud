@@ -30,7 +30,7 @@
 
 📧 **Email:** md.helalmasud@gmail.com  
 📱 **WeChat:** iamyangguang24  
-🌍 **Location:** Mianyang, Sichuan, China  
+🌍 **Location:** Yueyang, Hunan, China  
 
 ---
 
