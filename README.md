@@ -5,7 +5,7 @@
 
 <h1 align="center">🌟 MD HELAL MASUD 🌟</h1>
 <h3 align="center">Software Engineering Graduate | Machine Learning & AI Researcher | Learning Analytics</h3>
-<p align="center">🇧🇩 Bangladesh | 🇨🇳 Mianyang, China</p>
+<p align="center">🇧🇩 Bangladesh | 🇨🇳 Yueyang, Hunan, China</p>
 
 ---
 
